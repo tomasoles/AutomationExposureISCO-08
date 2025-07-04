@@ -1,0 +1,428 @@
+ISCO0804,ISCO0804title,software,robots,AI
+1111,Legislators ,16353,5272,1260
+1112,Senior government officials ,35915,8047,2468
+1113,Traditional chiefs and heads of villages ,5911,2764,549
+1114,Senior officials of special-interest organizations ,12932,3193,1145
+1120,Managing directors and chief executives ,42198,12136,3638
+1211,Finance managers ,33144,8181,3399
+1212,Human resource managers ,223895,108089,25841
+1213,Policy and planning managers ,34793,7559,4717
+1219,Business services and administration managers not elsewhere classified ,89176,23430,10407
+1221,Sales and marketing managers ,53160,10996,4645
+1222,Advertising and public relations managers ,95334,17104,12051
+1223,Research and development managers ,156251,86330,23819
+1311,Agricultural and forestry production managers ,72828,48311,12930
+1312,Aquaculture and fisheries production managers ,195093,132684,50746
+1321,Manufacturing managers ,238622,172608,42440
+1322,Mining managers ,122863,105347,21159
+1323,Construction managers ,41935,32130,5825
+1324,"Supply, distribution and related managers ",252165,148583,31687
+1330,Information and communications technology services managers ,371782,140073,58611
+1341,Child care services managers ,46502,29584,7376
+1342,Health services managers ,69669,40018,7671
+1343,Aged care services managers ,71884,33865,7755
+1344,Social welfare managers ,77312,29636,8767
+1345,Education managers ,178488,46794,22608
+1346,Financial and insurance services branch managers ,27040,8583,3776
+1349,Professional services managers not elsewhere classified ,186265,97213,18383
+1411,Hotel managers ,12565,7607,1112
+1412,Restaurant managers ,44171,38230,8354
+1420,Retail and wholesale trade managers ,38916,19757,3777
+1431,"Sports, recreation and cultural centre managers ",12633,8532,1490
+2111,Physicists and astronomers ,337828,284258,79396
+2112,Meteorologists ,153879,129343,52471
+2113,Chemists ,145529,141466,34713
+2114,Geologists and geophysicists ,226519,289538,79249
+2120,"Mathematicians, actuaries and statisticians ",128204,41209,38465
+2131,"Biologists, botanists, zoologists and related professionals ",261817,162828,87388
+2132,"Farming, forestry and fisheries advisers ",118006,83456,52420
+2133,Environmental protection professionals ,118141,111957,27396
+2141,Industrial and production engineers ,282513,229831,54654
+2142,Civil engineers ,243832,297756,77509
+2143,Environmental engineers ,122819,126833,28455
+2144,Mechanical engineers ,256809,401410,52620
+2145,Chemical engineers ,369690,285101,75898
+2146,"Mining engineers, metallurgists and related professionals ",99396,128266,32988
+2149,Engineering professionals not elsewhere classified ,427783,537696,119141
+2151,Electrical engineers ,295503,363018,44505
+2152,Electronics engineers ,575749,470851,103846
+2153,Telecommunications engineers ,367257,110896,66572
+2161,Building architects ,88165,49551,18697
+2162,Landscape architects ,57586,32484,15327
+2163,Product and garment designers ,131770,29575,24029
+2164,Town and traffic planners ,63753,30620,15198
+2165,Cartographers and surveyors ,423688,361878,118065
+2166,Graphic and multimedia designers ,373989,106423,89846
+2211,Generalist medical practitioners ,88800,58812,19976
+2212,Specialist medical practitioners ,133173,83307,32822
+2221,Nursing professionals ,95412,65264,41155
+2222,Midwifery professionals ,28965,27096,10724
+2230,Traditional and complementary medicine professionals ,137276,78152,36924
+2240,Paramedical practitioners ,125595,84270,24209
+2250,Veterinarians ,214707,176359,70871
+2261,Dentists ,179353,219908,44871
+2262,Pharmacists ,124208,75398,25271
+2263,Environmental and occupational health and hygiene professionals ,100347,105526,27047
+2264,Physiotherapists ,349102,324663,80909
+2265,Dieticians and nutritionists ,64712,39208,20970
+2266,Audiologists and speech therapists ,459449,234990,93789
+2267,Optometrists and ophthalmic opticians ,300928,260190,74905
+2269,Health professionals not elsewhere classified ,133162,131820,33458
+2310,University and higher education teachers ,60016,28218,10916
+2320,Vocational education teachers ,216107,129189,57993
+2330,Secondary education teachers ,80375,27632,17086
+2341,Primary school teachers ,21788,12867,6143
+2342,Early childhood educators ,164478,112052,44550
+2351,Education methods specialists ,91344,44471,24231
+2352,Special needs teachers ,204451,107087,69649
+2353,Other language teachers ,186677,81785,58254
+2354,Other music teachers ,83622,22097,22746
+2355,Other arts teachers ,80451,38032,25294
+2356,Information technology trainers ,596144,279756,143920
+2359,Teaching professionals not elsewhere classified ,154166,63773,42732
+2411,Accountants ,13070,2117,1944
+2412,Financial and investment advisers ,42488,3307,13774
+2413,Financial analysts ,232711,53702,79624
+2421,Management and organization analysts ,265051,146564,45896
+2422,Policy administration professionals ,42285,6589,6076
+2423,Personnel and careers professionals ,106423,42298,23521
+2424,Training and staff development professionals ,279872,147069,90039
+2431,Advertising and marketing professionals ,85317,22562,17099
+2432,Public relations professionals ,22176,3649,2841
+2433,Technical and medical sales professionals (excluding ICT) ,169398,21838,29526
+2434,Information and communications technology sales professionals ,138488,69780,16996
+2511,Systems analysts ,385879,182623,57722
+2512,Software developers ,327501,130112,42606
+2513,Web and multimedia developers ,321268,71790,81250
+2514,Applications programmers ,323419,87080,41096
+2519,Software and applications developers and analysts not elsewhere classified ,312404,105335,42558
+2521,Database designers and administrators ,186140,44586,27813
+2522,Systems administrators ,338054,154651,52464
+2523,Computer network professionals ,484217,225146,119195
+2529,Database and network professionals not elsewhere classified ,471325,171526,76783
+2611,Lawyers ,12849,2459,5021
+2612,Judges ,2945,1517,643
+2619,Legal professionals not elsewhere classified ,1293,410,357
+2621,Archivists and curators ,170100,58322,32591
+2622,Librarians and related information professionals ,289755,102683,69764
+2631,Economists ,76347,24777,25697
+2632,"Sociologists, anthropologists and related professionals ",150231,54837,58442
+2633,"Philosophers, historians and political scientists ",68521,23165,27643
+2634,Psychologists ,100411,30930,30791
+2635,Social work and counselling professionals ,34816,5434,10311
+2636,Religious professionals ,9350,1400,1017
+2641,Authors and related writers ,215730,71764,32883
+2642,Journalists ,100927,24046,27505
+2643,"Translators, interpreters and other linguists ",165291,72500,49697
+2651,Visual artists ,197545,89436,82323
+2652,"Musicians, singers and composers ",132887,33293,29283
+2653,Dancers and choreographers ,62063,50285,11364
+2654,"Film, stage and related directors and producers ",28106,7611,2524
+2655,Actors ,13684,3659,5716
+2656,"Announcers on radio, television and other media ",35672,7310,7584
+2659,Creative and performing artists not elsewhere classified ,459,1744,259
+3111,Chemical and physical science technicians ,360181,336542,72029
+3112,Civil engineering technicians ,184377,240029,44945
+3113,Electrical engineering technicians ,334866,313879,62536
+3114,Electronics engineering technicians ,617542,525498,108844
+3115,Mechanical engineering technicians ,353510,550827,84057
+3116,Chemical engineering technicians ,324136,345661,70349
+3117,Mining and metallurgical technicians ,306424,383571,74401
+3118,Draughtspersons ,508072,399945,125063
+3119,Physical and engineering science technicians not elsewhere classified ,560770,650305,144425
+3121,Mining supervisors ,86355,116437,16701
+3122,Manufacturing supervisors ,178839,188513,24019
+3123,Construction supervisors ,82007,102220,10196
+3131,Power production plant operators ,457767,507367,63149
+3132,Incinerator and water treatment plant operators ,543356,578780,105317
+3133,Chemical processing plant controllers ,581272,559776,94813
+3134,Petroleum and natural gas refining plant operators ,551500,554832,90532
+3135,Metal production process controllers ,473302,502783,75733
+3141,Life science technicians (excluding medical) ,230855,178878,48155
+3142,Agricultural technicians ,404238,326587,98142
+3143,Forestry technicians ,142478,102248,28492
+3151,Ships' engineers ,147325,272100,16530
+3152,Ships' deck officers and pilots ,50388,83782,11446
+3153,Aircraft pilots and related associate professionals ,218871,205504,37133
+3154,Air traffic controllers ,107454,82977,12148
+3155,Air traffic safety electronics technicians ,442841,442748,107860
+3211,Medical imaging and therapeutic equipment technicians ,561830,540198,120665
+3212,Medical and pathology laboratory technicians ,545252,437984,130757
+3213,Pharmaceutical technicians and assistants ,230563,151575,42618
+3214,Medical and dental prosthetic technicians ,324829,439676,90396
+3221,Nursing associate professionals ,45798,45868,14415
+3222,Midwifery associate professionals ,44952,34239,12972
+3230,Traditional and complementary medicine associate professionals ,172569,125332,48486
+3240,Veterinary technicians and assistants ,128423,138960,42360
+3251,Dental assistants and therapists ,111996,120099,23964
+3252,Medical records and health information technicians ,450425,288371,101923
+3253,Community health workers ,33714,15004,5023
+3254,Dispensing opticians ,140413,131510,40057
+3255,Physiotherapy technicians and assistants ,355852,401763,82740
+3256,Medical assistants ,220783,157271,36424
+3257,Environmental and occupational health inspectors and associates ,50671,96336,13736
+3258,Ambulance workers ,127059,97472,37415
+3259,Health associate professionals not elsewhere classified ,234256,112679,38665
+3311,Securities and finance dealers and brokers ,172577,32690,31224
+3312,Credit and loans officers ,42086,10561,11835
+3313,Accounting associate professionals ,121548,38210,13943
+3314,"Statistical, mathematical and related associate professionals ",417136,197237,71022
+3315,Valuers and loss assessors ,295309,157024,70857
+3321,Insurance representatives ,124685,31069,24343
+3322,Commercial sales representatives ,130381,52676,17238
+3323,Buyers ,185876,97971,25325
+3324,Trade brokers ,41398,28647,6298
+3331,Clearing and forwarding agents ,23477,23032,1746
+3332,Conference and event planners ,74290,26205,6493
+3333,Employment agents and contractors ,22423,18787,6735
+3334,Real estate agents and property managers ,64035,41563,8534
+3339,Business services agents not elsewhere classified ,41412,13101,4172
+3341,Office supervisors ,131977,64399,15508
+3342,Legal secretaries ,30417,10093,2567
+3343,Administrative and executive secretaries ,47925,10042,2390
+3344,Medical secretaries ,31115,17625,3194
+3351,Customs and border inspectors ,15681,24930,2810
+3352,Government tax and excise officials ,23493,5264,2183
+3353,Government social benefits officials ,37595,6842,4390
+3354,Government licensing officials ,65222,18424,6630
+3355,Police inspectors and detectives ,339772,157515,76517
+3359,Government regulatory associate professionals not elsewhere classified ,103762,90841,15259
+3411,Legal and related associate professionals ,78010,26608,13498
+3412,Social work associate professionals ,109194,37116,24082
+3413,Religious associate professionals ,4074,822,403
+3421,Athletes and sports players ,17228,8407,8194
+3422,"Sports coaches, instructors and officials ",84010,27069,30000
+3423,Fitness and recreation instructors and program leaders ,36539,61560,10926
+3431,Photographers ,654654,392318,176229
+3432,Interior designers and decorators ,77666,22195,15209
+3433,"Gallery, museum and library technicians ",53855,33615,5393
+3434,Chefs ,31043,32221,6309
+3511,Information and communications technology operations technicians ,596193,523757,84863
+3512,Information and communications technology user support technicians ,352947,171744,44516
+3513,Computer network and systems technicians ,321693,123754,42732
+3514,Web technicians ,191914,76695,24354
+3521,Broadcasting and audiovisual technicians ,641371,533875,126693
+3522,Telecommunications engineering technicians ,622591,372826,135466
+4110,General office clerks ,170282,58738,21504
+4120,Secretaries (general) ,180573,58800,14117
+4131,Typists and word processing operators ,431924,185313,92132
+4132,Data entry clerks ,491621,267591,81825
+4211,Bank tellers and related clerks ,33391,5832,2862
+4212,"Bookmakers, croupiers and related gaming workers ",7553,1973,1031
+4213,Pawnbrokers and money-lenders ,43125,12447,16288
+4214,Debt collectors and related workers ,32795,9941,3872
+4221,Travel consultants and clerks ,49204,24099,5448
+4222,Contact centre information clerks ,68353,18527,5947
+4223,Telephone switchboard operators ,266846,137870,23673
+4224,Hotel receptionists ,103798,57043,9346
+4225,Inquiry clerks ,60456,30123,8034
+4226,Receptionists (general) ,41392,18164,3865
+4227,Survey and market research interviewers ,151397,45916,36073
+4229,Client information workers not elsewhere classified ,114154,48678,20582
+4311,Accounting and bookkeeping clerks ,304020,80535,42717
+4312,"Statistical, finance and insurance clerks ",146160,28135,25426
+4313,Payroll clerks ,171236,63878,19103
+4321,Stock clerks ,143581,93948,15550
+4322,Production clerks ,222567,113598,31917
+4323,Transport clerks ,246043,187836,33410
+4411,Library clerks ,48121,15689,3172
+4412,Mail carriers and sorting clerks ,21583,7857,1139
+4413,"Coding, proofreading and related clerks ",375319,199315,63094
+4414,Scribes and related workers ,43385,20414,4448
+4415,Filing and copying clerks ,342852,210677,66631
+4416,Personnel clerks ,116118,31774,12367
+4419,Clerical support workers not elsewhere classified ,33701,8639,3136
+5111,Travel attendants and travel stewards ,27809,43416,5146
+5112,Transport conductors ,34577,73038,8176
+5113,Travel guides ,55226,83452,12183
+5120,Cooks ,46581,66209,9003
+5131,Waiters ,23675,35504,3253
+5132,Bartenders ,71071,89657,11959
+5141,Hairdressers ,4778,6190,824
+5142,Beauticians and related workers ,16546,23423,5513
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments ",40467,70933,5018
+5152,Domestic housekeepers ,53469,81517,8508
+5153,Building caretakers ,34717,76083,5195
+5161,"Astrologers, fortune-tellers and related workers ",23287,18534,8902
+5162,Companions and valets ,8792,14831,2504
+5163,Undertakers and embalmers ,65203,54951,19563
+5164,Pet groomers and animal care workers ,82792,95115,27272
+5165,Driving instructors ,124185,149085,33501
+5169,Personal services workers not elsewhere classified ,4227,3967,971
+5211,Stall and market salespersons ,81276,57418,13615
+5212,Street food salespersons ,62052,44878,11871
+5221,Shopkeepers ,87086,39537,11463
+5222,Shop supervisors ,29866,23766,3699
+5223,Shop sales assistants ,117974,62041,13979
+5230,Cashiers and ticket clerks ,152773,103814,20404
+5241,Fashion and other models ,88772,42088,40165
+5242,Sales demonstrators ,88207,57325,12903
+5243,Door-to-door salespersons ,88850,19398,11756
+5244,Contact centre salespersons ,187566,45491,20727
+5245,Service station attendants ,41712,92877,5479
+5246,Food service counter attendants ,57741,65794,9364
+5311,Child care workers ,53149,43940,12213
+5312,Teachers' aides ,171085,113789,45266
+5321,Health care assistants ,230876,224434,65055
+5322,Home-based personal care workers ,163417,114191,47279
+5329,Personal care workers in health services not elsewhere classified ,121770,224439,27388
+5411,Firefighters ,9867,21822,2072
+5412,Police officers ,6353,15529,1656
+5413,Prison guards ,14228,12859,1642
+5414,Security guards ,36228,56570,4848
+5419,Protective services workers not elsewhere classified ,7297,24210,2860
+6111,Field crop and vegetable growers ,48455,47669,8082
+6112,Tree and shrub crop growers ,47810,46548,7830
+6113,"Gardeners, horticultural and nursery growers ",86837,77167,12653
+6114,Mixed crop growers ,66387,58963,11587
+6121,Livestock and dairy producers ,70993,66379,16278
+6122,Poultry producers ,124384,81171,22304
+6123,Apiarists and sericulturists ,85258,78242,16645
+6129,Animal producers not elsewhere classified ,112074,97500,27317
+6130,Mixed crop and animal producers ,60925,43096,11311
+6210,Forestry and related workers ,23925,38150,7425
+6221,Aquaculture workers ,87574,69925,36567
+6222,Inland and coastal waters fishery workers ,65952,54341,18417
+6223,Deep-sea fishery workers ,18975,25976,8578
+6224,Hunters and trappers ,43188,35910,8288
+6310,Subsistence crop farmers ,7235,9685,1499
+6320,Subsistence livestock farmers ,90320,66824,24775
+6330,Subsistence mixed crop and livestock farmers ,15853,16026,3868
+6340,"Subsistence fishers, hunters, trappers and gatherers ",5202,2733,1009
+7111,House builders ,38074,53114,8814
+7112,Bricklayers and related workers ,8631,16710,1305
+7113,"Stonemasons, stone cutters, splitters and carvers ",16014,23226,3876
+7114,"Concrete placers, concrete finishers and related workers ",8771,38758,3733
+7115,Carpenters and joiners ,65369,102796,14672
+7119,Building frame and related trades workers not elsewhere classified ,1678,7259,355
+7121,Roofers ,66103,40975,22297
+7122,Floor layers and tile setters ,247272,215433,63779
+7123,Plasterers ,16346,50824,4021
+7124,Insulation workers ,486569,443004,128120
+7125,Glaziers ,141744,91063,39186
+7126,Plumbers and pipe fitters ,361449,399559,77838
+7127,Air conditioning and refrigeration mechanics ,184438,267316,29966
+7131,Painters and related workers ,67072,93199,21980
+7132,Spray painters and varnishers ,67684,131468,27104
+7133,Building structure cleaners ,14216,62959,4222
+7211,Metal moulders and coremakers ,54970,160631,12719
+7212,Welders and flame cutters ,115256,269859,28827
+7213,Sheet metal workers ,187933,228153,42876
+7214,Structural metal preparers and erectors ,156634,305571,39275
+7215,Riggers and cable splicers ,164700,269473,44680
+7221,"Blacksmiths, hammersmiths and forging press workers ",169822,290514,43838
+7222,Toolmakers and related workers ,259205,343242,55021
+7223,Metal working machine tool setters and operators ,404934,522382,97434
+7224,"Metal polishers, wheel grinders and tool sharpeners ",106540,234336,29563
+7231,Motor vehicle mechanics and repairers ,264401,389513,60714
+7232,Aircraft engine mechanics and repairers ,293933,338084,43903
+7233,Agricultural and industrial machinery mechanics and repairers ,184857,289399,30246
+7234,Bicycle and related repairers ,96215,228249,23004
+7311,Precision-instrument makers and repairers ,395004,459684,61677
+7312,Musical instrument makers and tuners ,113250,121809,20083
+7313,Jewellery and precious metal workers ,158070,163450,42992
+7314,Potters and related workers ,73596,177475,18981
+7315,"Glass makers, cutters, grinders and finishers ",295469,365626,83650
+7316,"Signwriters, decorative painters, engravers and etchers ",303433,242516,93597
+7317,"Handicraft workers in wood, basketry and related materials ",43396,54333,9918
+7318,"Handicraft workers in textile, leather and related materials ",20294,24458,8443
+7321,Pre-press technicians ,749454,622138,174909
+7322,Printers ,502047,484914,107339
+7323,Print finishing and binding workers ,458701,472199,87379
+7411,Building and related electricians ,345024,318655,67543
+7412,Electrical mechanics and fitters ,230562,415124,42160
+7413,Electrical line installers and repairers ,189867,282258,40989
+7421,Electronics mechanics and servicers ,582131,615407,107935
+7422,Information and communications technology installers and servicers ,431602,209815,64148
+7511,"Butchers, fishmongers and related food preparers ",35410,26447,10399
+7512,"Bakers, pastry-cooks and confectionery makers ",123433,157816,26720
+7513,Dairy products makers ,258741,234301,90333
+7514,"Fruit, vegetable and related preservers ",96871,53804,28099
+7515,Food and beverage tasters and graders ,163743,146131,38705
+7516,Tobacco preparers and tobacco products makers ,18309,32380,4533
+7521,Wood treaters ,215549,351909,32396
+7522,Cabinet-makers and related workers ,208980,267538,44227
+7523,Woodworking machine tool setters and operators ,310536,344831,61576
+7531,"Tailors, dressmakers, furriers and hatters ",45597,25580,16575
+7532,Garment and related patternmakers and cutters ,383957,263997,133396
+7533,"Sewing, embroidery and related workers ",68146,102230,27475
+7534,Upholsterers and related workers ,53556,69328,19591
+7535,"Pelt dressers, tanners and fellmongers ",6508,8240,4634
+7536,Shoemakers and related workers ,103384,138124,32107
+7541,Underwater divers ,81483,153450,45025
+7542,Shotfirers and blasters ,20784,62539,3052
+7543,Product graders and testers (excluding foods and beverages) ,407108,417948,80154
+7544,Fumigators and other pest and weed controllers ,264571,330414,53396
+7549,Craft and related workers not elsewhere classified ,87429,120988,33218
+8111,Miners and quarriers ,399745,492132,92700
+8112,Mineral and stone processing plant operators ,471041,429619,103929
+8113,Well drillers and borers and related workers ,73145,201598,9135
+8114,"Cement, stone and other mineral products machine operators ",264751,378749,54801
+8121,Metal processing plant operators ,343641,334270,73078
+8122,"Metal finishing, plating and coating machine operators ",585676,674977,137656
+8131,Chemical products plant and machine operators ,415602,477481,74418
+8132,Photographic products machine operators ,698426,651556,148358
+8141,Rubber products machine operators ,542545,731742,157655
+8142,Plastic products machine operators ,641232,737448,186535
+8143,Paper products machine operators ,587512,655991,141224
+8151,"Fibre preparing, spinning and winding machine operators ",589231,629824,157519
+8152,Weaving and knitting machine operators ,304446,398484,82753
+8153,Sewing machine operators ,246659,358041,59437
+8154,"Bleaching, dyeing and fabric cleaning machine operators ",291394,360815,82593
+8155,Fur and leather preparing machine operators ,333353,477113,112731
+8156,Shoemaking and related machine operators ,549981,668708,123480
+8157,Laundry machine operators ,147750,201086,35889
+8159,"Textile, fur and leather products machine operators not elsewhere classified ",541695,617967,137232
+8160,Food and related products machine operators ,334000,337727,70814
+8171,Pulp and papermaking plant operators ,381601,390630,60709
+8172,Wood processing plant operators ,541412,579764,141484
+8181,Glass and ceramics plant operators ,387433,509410,102793
+8182,Steam engine and boiler operators ,202168,367572,39083
+8183,"Packing, bottling and labelling machine operators ",656304,747477,159693
+8211,Mechanical machinery assemblers ,306427,393111,53657
+8212,Electrical and electronic equipment assemblers ,364064,440068,66021
+8219,Assemblers not elsewhere classified ,217638,274492,35863
+8311,Locomotive engine drivers ,163333,249938,36141
+8312,"Railway brake, signal and switch operators ",115048,195868,18557
+8321,Motorcycle drivers ,10270,33774,2768
+8322,"Car, taxi and van drivers ",84115,135489,15692
+8331,Bus and tram drivers ,106008,199411,20146
+8332,Heavy truck and lorry drivers ,60407,166469,18505
+8341,Mobile farm and forestry plant operators ,97341,195455,26180
+8342,Earthmoving and related plant operators ,523869,726669,125667
+8343,"Crane, hoist and related plant operators ",443722,653878,95467
+8344,Lifting truck operators ,193356,415225,38186
+8350,Ships' deck crews and related workers ,5142,23865,920
+9111,Domestic cleaners and helpers ,6109,24062,1299
+9112,"Cleaners and helpers in offices, hotels and other establishments ",11052,46855,1932
+9121,Hand launderers and pressers ,67176,128541,11284
+9122,Vehicle cleaners ,26021,112298,10237
+9123,Window cleaners ,86923,118262,26233
+9129,Other cleaning workers ,211318,304211,72919
+9211,Crop farm labourers ,12146,28140,3424
+9212,Livestock farm labourers ,16676,33475,5039
+9213,Mixed crop and livestock farm labourers ,19203,41853,6391
+9214,Garden and horticultural labourers ,17027,39201,3370
+9215,Forestry labourers ,3467,10567,987
+9216,Fishery and aquaculture labourers ,15695,39692,7675
+9311,Mining and quarrying labourers ,33306,91669,7762
+9312,Civil engineering labourers ,22051,91615,8358
+9313,Building construction labourers ,15547,78976,3738
+9321,Hand packers ,42861,89297,15071
+9329,Manufacturing labourers not elsewhere classified ,42887,163087,7635
+9331,Hand and pedal vehicle drivers ,68003,166982,12387
+9332,Drivers of animal-drawn vehicles and machinery ,112357,169170,31014
+9333,Freight handlers ,138355,197443,21783
+9334,Shelf fillers ,66240,91778,10763
+9411,Fast food preparers ,82306,79121,25783
+9412,Kitchen helpers ,9044,28050,2006
+9510,Street and related services workers ,12990,27774,2597
+9520,Street vendors (excluding food) ,91004,91523,17004
+9611,Garbage and recycling collectors ,58252,183360,27463
+9612,Refuse sorters ,185304,280333,59958
+9613,Sweepers and related labourers ,2212,22448,968
+9621,"Messengers, package deliverers and luggage porters ",49819,44040,6746
+9622,Odd-job persons ,13238,61489,3650
+9623,Meter readers and vending-machine collectors ,319403,435439,61434
+9624,Water and firewood collectors ,7788,14011,2903
+9629,Elementary workers not elsewhere classified ,164294,142777,28891
